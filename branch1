@@ -1,3 +1,4 @@
 set var a
-if a then a + b
+if a>1 then a + 1
+else a = 1
 set 
