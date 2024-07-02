@@ -1,4 +1,4 @@
 set var a
 if a>1 then a + 1
 else a = 1
-set 
+set var b
